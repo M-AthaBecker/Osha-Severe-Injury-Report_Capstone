@@ -1,2 +1,2 @@
-# Osha-Severe-Injury-Report_Capstone
+# Osha-Capstone
 OSHA Severe Injury Report Data Analytics Capstone Project
