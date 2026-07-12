@@ -81,28 +81,6 @@ Under **29 CFR 1904.39**, employers are required to report three types of severe
 | **Injury Overview** | KPI card, outcome pie charts, nature title and body part bar charts |
 
 ---
-
-## 📁 Repository Structure
-
-```
-Osha-Severe-Injury-Report_Capstone/
-├── index.html                    ← Portfolio webpage
-├── README.md                     ← This file
-├── outcomes_distribution.png
-├── injuries_by_nature.png
-├── top10_states.png
-├── correlation_heatmap.png
-├── incidents_over_time.png
-├── injuries_by_day.png
-├── top20_industries.png
-├── top20_parent_industries.png
-├── forecast.png
-├── outliers_boxplot.png
-└── skewness_distribution.png
-```
-
----
-
 ## 📈 Statistical Summary
 
 | Metric | Hospitalized | Amputation | Loss of Eye |
