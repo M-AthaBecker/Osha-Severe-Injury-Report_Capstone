@@ -1,1 +1,0 @@
-Python Images Folder
