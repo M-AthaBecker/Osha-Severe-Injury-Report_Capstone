@@ -200,7 +200,7 @@ USE osha_severe_injuries;
 ## 👩‍💼 Author
 
 **Mary Becker**  
-FullStack Academy Data Analytics Certificate | 2025  
+FullStack Academy Data Analytics Certificate | 2026  
 Master of Arts in Human Resource Management — Saint Mary's University of Minnesota  
 SHRM Member | MVHRA Member
 
