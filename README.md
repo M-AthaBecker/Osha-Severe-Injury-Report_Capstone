@@ -73,39 +73,7 @@ This field `Direct Parent Title Clean` was used in place of the original column 
 
 ---
 
-### Dashboard 1 — Time Analysis
-
-**Purpose:** Explore how severe workplace injuries trended over time and which days carry the highest risk.
-
-| Worksheet Included | Description |
-|---|---|
-| Monthly Reports Over Time | Line chart with COVID-19 reference line and trend line |
-| Forecasted Reports | Exponential smoothing projection through 2027 |
-| Reports by Day of Week | Bar chart with weekday vs weekend color contrast |
-
-**Filters:** Year filter applies interactively across all three charts
-
-**Key Story:** Injuries peaked in 2018 at 11,156 annual incidents, dropped sharply in 2020 due to COVID-19, and have not returned to pre-pandemic levels. The forecast projects stabilization around 700-800 monthly incidents through 2027.
-
----
-
-### Dashboard 2 — Industry Analysis
-
-**Purpose:** Identify which industries and geographic areas carry the highest severe injury burden.
-
-| Worksheet Included | Description |
-|---|---|
-| OSHA Severe Injury Outcomes by State | Horizontal bar with Hospitalized, Amputation, Loss of Eye, and Total Outcomes |
-| Severe Injury Outcomes by Direct Parent Title | Broad industry breakdown across all four outcome measures |
-| Severe Injury Report by Broad Category | Packed bubble chart colored by industry category |
-
-**Filters:** Year filter and Direct Parent Title Clean filter apply interactively across all charts
-
-**Key Story:** Construction is the dominant industry across all metrics — recording nearly 3x more incidents than the second-ranked category. Texas leads all states by a significant margin.
-
----
-
-### Dashboard 3 — Injury Overview
+### Dashboard 1 — Injury Overview
 
 **Purpose:** Provide a high-level summary of total incident volume and outcome distributions alongside the most common injury types and affected body parts.
 
@@ -124,13 +92,45 @@ This field `Direct Parent Title Clean` was used in place of the original column 
 
 ---
 
+### Dashboard 2 — Time Analysis
+
+**Purpose:** Explore how severe workplace injuries trended over time and which days carry the highest risk.
+
+| Worksheet Included | Description |
+|---|---|
+| Monthly Reports Over Time | Line chart with COVID-19 reference line and trend line |
+| Forecasted Reports | Exponential smoothing projection through 2027 |
+| Reports by Day of Week | Bar chart with weekday vs weekend color contrast |
+
+**Filters:** Year filter applies interactively across all three charts
+
+**Key Story:** Injuries peaked in 2018 at 11,156 annual incidents, dropped sharply in 2020 due to COVID-19, and have not returned to pre-pandemic levels. The forecast projects stabilization around 700-800 monthly incidents through 2027.
+
+---
+
+### Dashboard 3 — Industry Analysis
+
+**Purpose:** Identify which industries and geographic areas carry the highest severe injury burden.
+
+| Worksheet Included | Description |
+|---|---|
+| OSHA Severe Injury Outcomes by State | Horizontal bar with Hospitalized, Amputation, Loss of Eye, and Total Outcomes |
+| Severe Injury Outcomes by Direct Parent Title | Broad industry breakdown across all four outcome measures |
+| Severe Injury Report by Broad Category | Packed bubble chart colored by industry category |
+
+**Filters:** Year filter and Direct Parent Title Clean filter apply interactively across all charts
+
+**Key Story:** Construction is the dominant industry across all metrics — recording nearly 3x more incidents than the second-ranked category. Texas leads all states by a significant margin.
+
+---
+
 ## 🎨 Design Decisions
 
 | Decision | Rationale |
 |---|---|
 | Consistent color scheme | Blue tones for primary bars, orange/gold for secondary measures, green for positive outcomes — colorblind accessible |
 | Year filter on all dashboards | Allows stakeholders to explore year-specific patterns without building separate views |
-| Separate dashboards by theme | Reduces clutter — time trends, industry analysis, and injury overview each get dedicated space |
+| Separate dashboards by theme | Reduces clutter — injury overview, time trends, and industry analysis each get dedicated space |
 | Packed bubble chart | Visually communicates the dominance of Construction at a glance — size difference is immediately apparent |
 | COVID-19 reference line | Provides critical context for the 2020 decline without requiring explanation |
 
@@ -162,3 +162,5 @@ SHRM Member | MVHRA Member
 
 [![GitHub](https://img.shields.io/badge/GitHub-M--AthaBecker-black?logo=github)](https://github.com/M-AthaBecker)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/m.athaBecker)
+
+
