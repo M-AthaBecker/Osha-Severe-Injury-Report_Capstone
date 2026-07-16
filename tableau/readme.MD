@@ -11,7 +11,7 @@
 
 > **All three interactive dashboards are published on Tableau Public:**
 
-### 👉 [View on Tableau Public](https://public.tableau.com/app/profile/m.athaBecker)
+### 👉 [View on Tableau Public](https://public.tableau.com/app/profile/mary.becker/vizzes)
 
 ---
 
