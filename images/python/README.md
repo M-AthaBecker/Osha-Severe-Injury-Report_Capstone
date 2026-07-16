@@ -38,5 +38,5 @@ All charts saved at **150 DPI** using `plt.savefig()` with `seaborn white` style
 ## 📂 Related
 
 - Full Python analysis → see `/python/` folder
-- Interactive Tableau dashboards → [Tableau Public](https://public.tableau.com/app/profile/m.athaBecker)
+- Interactive Tableau dashboards → [Tableau Public](https://public.tableau.com/app/profile/mary.becker/viz/OshaSevereInjuryReportv1/Overview#1)
 - Portfolio webpage → [GitHub Pages](https://M-AthaBecker.github.io/Osha-Severe-Injury-Report_Capstone)
