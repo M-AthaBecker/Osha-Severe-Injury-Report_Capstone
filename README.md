@@ -1,5 +1,5 @@
 # 🦺 OSHA Severe Workplace Injury Analysis
-### Data Analytics Capstone Project | FullStack Academy | 2025
+### Data Analytics Capstone Project | FullStack Academy | 2026
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau-blue)
