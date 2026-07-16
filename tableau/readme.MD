@@ -11,7 +11,7 @@
 
 > **All three interactive dashboards are published on Tableau Public:**
 
-### 👉 [View on Tableau Public](https://public.tableau.com/app/profile/mary.becker/vizzes)
+### 👉 [View on Tableau Public](https://public.tableau.com/app/profile/mary.becker/viz/OshaSevereInjuryReportv1/Overview#1)
 
 ---
 
