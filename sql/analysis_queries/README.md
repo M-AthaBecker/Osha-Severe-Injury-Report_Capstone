@@ -205,4 +205,4 @@ Master of Arts in Human Resource Management — Saint Mary's University of Minne
 SHRM Member | MVHRA Member
 
 [![GitHub](https://img.shields.io/badge/GitHub-M--AthaBecker-black?logo=github)](https://github.com/M-AthaBecker)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/m.athaBecker)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/mary.becker/viz/OshaSevereInjuryReportv1/Overview#1)
