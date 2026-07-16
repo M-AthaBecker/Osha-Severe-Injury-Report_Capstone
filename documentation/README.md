@@ -77,7 +77,7 @@ These documents are intended for:
 | Resource | Location |
 |---|---|
 | Python charts and analysis | `/images/python/` |
-| Interactive Tableau dashboards | [Tableau Public](https://public.tableau.com/app/profile/m.athaBecker) |
+| Interactive Tableau dashboards | [Tableau Public](https://public.tableau.com/app/profile/mary.becker/viz/OshaSevereInjuryReportv1/Overview#1) |
 | Portfolio webpage | [GitHub Pages](https://M-AthaBecker.github.io/Osha-Severe-Injury-Report_Capstone) |
 | Primary dataset | [OSHA Severe Injury Dashboard](https://www.osha.gov/severe-injury-reports) |
 
